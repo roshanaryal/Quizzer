@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "919757944406",
+    "firebase_url": "https://quizzer-854a0.firebaseio.com",
+    "project_id": "quizzer-854a0",
+    "storage_bucket": "quizzer-854a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919757944406:android:e9a9e472b35e011b11edf7",
+        "android_client_info": {
+          "package_name": "com.roshanaryal.quizzerjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919757944406-9had8hvbj98b6g2kmhmvkopkeeh50dbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkukXo4k6dwD6m9LD5lJEBp5bx3qO3Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919757944406-9had8hvbj98b6g2kmhmvkopkeeh50dbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

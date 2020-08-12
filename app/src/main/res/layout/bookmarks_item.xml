@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/categories_background"
+    android:layout_height="wrap_content"
+    android:layout_margin="4dp"
+    >
+
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question"
+        android:padding="8dp"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Answer"
+        android:padding="8dp"
+        android:textColor="@android:color/black"
+        android:textSize="17dp"/>
+
+    <ImageButton
+        android:id="@+id/deleteButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:src="@drawable/delete"
+        android:background="@android:color/transparent"
+        />
+</LinearLayout>
